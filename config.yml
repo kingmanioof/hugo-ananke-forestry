@@ -1,6 +1,6 @@
-baseURL: "http://example.org/"
+baseURL: "https://ioofkingman.org/"
 languageCode: "en-us"
-title: "Hugo Ananke Forestry Starter"
+title: "Independent Order of Odd Fellows"
 
 module:
   imports:
@@ -8,7 +8,7 @@ module:
 
 DefaultContentLanguage: en
 SectionPagesMenu: main
-Paginate: 3
+Paginate: 9
 googleAnalytics: ''
 enableRobotsTXT: true
 sitemap:
@@ -18,9 +18,9 @@ sitemap:
 params:
   favicon: ''
   site_logo: ''
-  description: The last theme you'll ever need. Maybe.
+  description: Independent Order of Odd Fellows in Kingman, AZ.
   facebook: ''
-  twitter: 'https://twitter.com/GoHugoIO'
+  twitter: ''
   instagram: ''
   youtube: ''
   github: ''
@@ -31,5 +31,5 @@ params:
   stackoverflow: ''
   rss: ''
   background_color_class: bg-black
-  featured_image: /images/gohugo-default-sample-hero-image.jpg
+  featured_image: /images/odd-fellows-symbols_azt7mt.webp
   recent_posts_number: 2
