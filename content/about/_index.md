@@ -6,6 +6,10 @@ description: 'A few years ago, while visiting or, rather, rummaging about Notre-
 featured_image: ''
 
 ---
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
+{{< figure src="/images/1egbg1k_4qur_l.jpg" title="Original IOOF Building" >}}
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+Kingman Odd Fellows Lodge No. 8 was chartered in 2019 by the Grand Lodge of Arizona, but the history of the Odd Fellows in Kingman goes back more than 100 years. From nine members at the 2019 reopening, Kingman’s lodge has steadily grown and together work to improve and uplift the community. Recent outreach includes seasonal raffles, giving for the relief of the sick and distressed, and attempts to preserve or improve local monuments. Those interested in working with fellow community members in a positive and orderly manner are encouraged to approach the lodge for membership. Lodge meetings are held at 2:30 p.m. on the first and third Saturdays of each month at 212 North 4th St, Kingman, AZ 86401.
+
+Special thanks to our brothers at Kingman Masonic Lodge No. 22 for hosting our lodge.
+
+{{< figure src="/images/3683488_orig.png" title="Our Motto" >}}
