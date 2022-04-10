@@ -1,6 +1,5 @@
 +++
 description = "Kingman, Arizona"
-draft = true
 featured_image = "/images/odd-fellows-symbols_azt7mt.webp"
 title = "I.O.O.F. Lodge No. 8"
 
