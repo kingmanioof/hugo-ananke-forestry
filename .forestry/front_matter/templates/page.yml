@@ -11,6 +11,7 @@ fields:
 - type: text
   name: description
   label: description
+  hidden: false
 pages:
 - content/about/_index.md
 - content/i.o.o.f.lodge-no.8.md
