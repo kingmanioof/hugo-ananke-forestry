@@ -3,7 +3,7 @@ title: About
 description: 'A few years ago, while visiting or, rather, rummaging about Notre-Dame,
   the author of this book found, in an obscure nook of one of the towers, the following
   word, engraved by hand upon the wall: —ANANKE.'
-featured_image: ''
+featured_image: "/images/odd-fellows-symbols_azt7mt.webp"
 
 ---
 {{< figure src="/images/1egbg1k_4qur_l.jpg" title="Original IOOF Building" >}}
