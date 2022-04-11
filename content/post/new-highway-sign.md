@@ -7,4 +7,4 @@ tags = ["scene"]
 title = "New Highway Sign"
 
 +++
-Our lodge's new 30" sign has been installed near the DPS Office on Route 66.  Much improvement over our previous 18" sign!
+Our lodge's new 30" sign has been installed near the DPS Office on Route 66.  Big improvement over our previous 18" sign!
