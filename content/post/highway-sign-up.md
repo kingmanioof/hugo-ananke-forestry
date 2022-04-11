@@ -7,4 +7,4 @@ tags = ["scene"]
 title = "Highway Sign Up"
 
 +++
-Our new 30" sign has been installed on the Chamber of Commerce billboard at Coyote Pass.
+Our new 30" sign has been installed on the Chamber of Commerce billboard at Coyote Pass. 
