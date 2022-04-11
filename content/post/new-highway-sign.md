@@ -2,8 +2,7 @@
 date = 2022-04-02T04:45:00Z
 description = "New Highway Sign up on Route 66"
 disable_share = false
-draft = true
-featured_image = ""
+featured_image = "/images/route66.jpg"
 tags = ["scene"]
 title = "New Highway Sign"
 
