@@ -9,3 +9,5 @@ title = "December 2022 Calendar"
 
 +++
 Attached is the calendar for Lodge No. 8's December events.  We encourage participation from all of our members.
+
+\[December Calendar\](/images/aziaao4-28-22.pdf)
