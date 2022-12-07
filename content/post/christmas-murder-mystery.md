@@ -1,6 +1,6 @@
 +++
 date = 2022-12-07T18:01:03Z
-description = "Kingman IAAO and Rebekah Invite you to participate in a Christmas Murder Mystery"
+description = "Kingman IAAO and Rebekahs Invite you to participate in a Christmas Murder Mystery"
 disable_share = false
 featured_image = "/images/lockedroommysteries.webp"
 tags = ["scene"]
