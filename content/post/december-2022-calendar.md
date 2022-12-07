@@ -2,7 +2,6 @@
 date = 2022-12-02T07:00:00Z
 description = "Kingman IOOF Activities taking place in December"
 disable_share = false
-draft = true
 featured_image = "/images/santa-claus-father-time-1874-5882327-4258443035.jpg"
 tags = ["scene"]
 title = "December 2022 Calendar"
