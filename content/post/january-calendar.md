@@ -10,4 +10,4 @@ title = "January 2023 Calendar"
 +++
 Attached is the calendar for Lodge No. 8's January events.  We encourage participation from all of our members.
 
-[January Calendar](https://app.forestry.io/sites/qj28k40xkhs9-g/body-media//images/odd-fellows-monthly-calendar-december-2022.pdf)
+[January Calendar](/images/odd-fellows-january-2023.pdf)
